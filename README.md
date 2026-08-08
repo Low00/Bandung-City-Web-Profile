@@ -4,7 +4,7 @@ This Bandung City Profile website was built as a submission project for the **Be
 
 ## Live Demo
 You can view the live website here:
-👉 [https://your-username.github.io/repository-name/](https://your-username.github.io/repository-name/) *(Replace with your actual GitHub Pages link)*
+👉 [(https://low00.github.io/Bandung-City-Web-Profile/)](https://low00.github.io/Bandung-City-Web-Profile/) 
 
 ## Features & Content
 * **History:** The origins of the name Bandung based on Sundanese legends and philosophy.
